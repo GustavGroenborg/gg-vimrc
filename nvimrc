@@ -312,9 +312,6 @@ let g:vimtex_compiler_latexmk = {
     \ 'out_dir' : 'build/',
     \}
 
-let b:vimtex_main="/Users/gustavgronborg/projects/P7/Paper/master.tex"
-let b:vim_debug="test"
-
 augroup VimTeX
     autocmd!
     " Setting path of master.tex
